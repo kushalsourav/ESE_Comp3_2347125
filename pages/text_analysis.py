@@ -7,6 +7,7 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer, PorterStemmer
 import nltk
 nltk.download('stopwords')
+nltk.download('punkt')
 
 
 
